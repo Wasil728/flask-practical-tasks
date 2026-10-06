@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+      <rect width="400" height="300" rx="16" fill="#1c1917"/>
+      <ellipse cx="200" cy="170" rx="110" ry="45" fill="#3f3f46" stroke="#71717a" stroke-width="4"/>
+      <ellipse cx="160" cy="155" rx="35" ry="22" fill="#dc2626" stroke="#b91c1c" stroke-width="3"/>
+      <ellipse cx="230" cy="155" rx="35" ry="22" fill="#ea580c" stroke="#c2410c" stroke-width="3"/>
+      <circle cx="195" cy="150" r="12" fill="#fef08a" stroke="#ca8a04" stroke-width="2"/>
+      <text x="200" y="265" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#fca5a5" text-anchor="middle">Tandoori Platter Deluxe</text>
+    </svg>

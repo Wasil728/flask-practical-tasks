@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+      <rect width="400" height="300" rx="16" fill="#1c1917"/>
+      <ellipse cx="200" cy="160" rx="110" ry="50" fill="#292524" stroke="#78716c" stroke-width="3"/>
+      <rect x="130" y="120" width="110" height="24" rx="12" fill="#d97706" stroke="#f59e0b" stroke-width="3" transform="rotate(-20 185 132)"/>
+      <rect x="160" y="135" width="110" height="24" rx="12" fill="#b45309" stroke="#f59e0b" stroke-width="3" transform="rotate(-10 215 147)"/>
+      <circle cx="260" cy="175" r="16" fill="#dc2626" stroke="#f87171" stroke-width="2"/>
+      <text x="200" y="265" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#fed7aa" text-anchor="middle">Crispy Veg Spring Rolls</text>
+    </svg>

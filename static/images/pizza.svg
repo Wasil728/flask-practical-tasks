@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+      <rect width="400" height="300" rx="16" fill="#18181b"/>
+      <circle cx="200" cy="140" r="85" fill="#d97706" stroke="#b45309" stroke-width="8"/>
+      <circle cx="200" cy="140" r="72" fill="#ef4444"/>
+      <circle cx="200" cy="140" r="65" fill="#fef08a" opacity="0.85"/>
+      <circle cx="175" cy="125" r="9" fill="#15803d"/>
+      <circle cx="225" cy="120" r="9" fill="#15803d"/>
+      <circle cx="195" cy="160" r="9" fill="#15803d"/>
+      <circle cx="220" cy="155" r="6" fill="#18181b"/>
+      <circle cx="175" cy="150" r="6" fill="#18181b"/>
+      <text x="200" y="265" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#fef08a" text-anchor="middle">Margherita Pizza</text>
+    </svg>

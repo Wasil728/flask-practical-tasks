@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+      <defs>
+        <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#4f46e5"/>
+          <stop offset="100%" stop-color="#7c3aed"/>
+        </linearGradient>
+      </defs>
+      <rect width="400" height="300" rx="16" fill="#1e1b4b"/>
+      <circle cx="200" cy="150" r="80" fill="url(#g1)" opacity="0.15"/>
+      <path d="M130,160 C130,105 160,80 200,80 C240,80 270,105 270,160" fill="none" stroke="#a5b4fc" stroke-width="14" stroke-linecap="round"/>
+      <rect x="110" y="150" width="36" height="65" rx="14" fill="#6366f1" stroke="#c7d2fe" stroke-width="3"/>
+      <rect x="254" y="150" width="36" height="65" rx="14" fill="#6366f1" stroke="#c7d2fe" stroke-width="3"/>
+      <circle cx="128" cy="182" r="8" fill="#312e81"/>
+      <circle cx="272" cy="182" r="8" fill="#312e81"/>
+      <text x="200" y="260" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#e0e7ff" text-anchor="middle">ANC Wireless Headphones</text>
+    </svg>
